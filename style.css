@@ -11,7 +11,7 @@ nav {
   text-align: center;
   font-family: "Bungee Spice", cursive;
 }
-img{
+#leftSection img{
   width: 100%;
   height: 100%;
 }
@@ -54,6 +54,15 @@ footer {
    align-items: center;
    gap: 10px;
     
+}
+
+.socialMediaImages {
+  margin: 5px;
+}
+footer {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 30px;
 }
 @media screen and (max-width:700px) {
   #container{
